@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/danimal-crossing/modern-javascript#readme",
   "dependencies": {
+    "mathjs": "^7.0.2",
     "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
   }
 }
